@@ -1,5 +1,4 @@
 # Space Shooter Game
-![](https://github.com/fmtvp/spacefighter/blob/main/assets/image.png)
 
 A Python-based space shooter game with enemy fighter planes, player movement controls, and shooting mechanics.
 
@@ -48,7 +47,7 @@ pip install -r requirements.txt
 python3 spcae_shooter.py
 ```
 ## Custom Graphics
-
+![](https://github.com/fmtvp/spacefighter/blob/main/assets/image.png)
 The game will look for image assets in an `assets` folder. If you want to add custom graphics, create the following files:
 - `player_ship.png`: Player's spaceship
 - `enemy_ship.png`: Regular enemy fighters (5 points)
