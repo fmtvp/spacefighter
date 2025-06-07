@@ -44,7 +44,7 @@ A Python-based space shooter game with enemy fighter planes, player movement con
 git clone https://github.com/fmtvp/spacefighter
 cd spacefighter
 pip install -r requirements.txt
-python3 spcae_fighter.py
+python3 spcae_shooter.py
 ```
 ## Custom Graphics
 
