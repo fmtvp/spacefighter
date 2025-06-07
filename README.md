@@ -1,5 +1,5 @@
 # Space Shooter Game
-![]([https://github.com/fmtvp/spacefighter/image.png](https://github.com/fmtvp/spacefighter/blob/main/assets/image.png)
+![](https://github.com/fmtvp/spacefighter/blob/main/assets/image.png)
 
 A Python-based space shooter game with enemy fighter planes, player movement controls, and shooting mechanics.
 
