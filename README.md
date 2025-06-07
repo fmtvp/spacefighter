@@ -6,7 +6,7 @@ A Python-based space shooter game with enemy fighter planes, player movement con
 
 - **Player Spaceship**: Move left, right, forward (max 2 units), and backward
 - **Enemy Types**:
-  - Regular enemies (5 points): Appear frequently
+  - Regular enemies (5 points): Appear frequently 
   - Special enemies (10 points): Appear randomly, move faster
 - **Power-ups**:
   - Extra Life: Randomly spawns, gives +1 life when collected
@@ -47,7 +47,9 @@ pip install -r requirements.txt
 python3 spcae_shooter.py
 ```
 ## Custom Graphics
+
 ![](https://github.com/fmtvp/spacefighter/blob/main/assets/image.png)
+
 The game will look for image assets in an `assets` folder. If you want to add custom graphics, create the following files:
 - `player_ship.png`: Player's spaceship
 - `enemy_ship.png`: Regular enemy fighters (5 points)
