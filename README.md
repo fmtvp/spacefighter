@@ -40,15 +40,12 @@ A Python-based space shooter game with enemy fighter planes, player movement con
 ## Installation
 
 1. Make sure you have Python installed
-2. Install Pygame:
-   ```
-   pip install pygame
-   ```
-3. Run the game:
-   ```
-   python space_shooter.py
-   ```
-
+```
+git clone https://github.com/fmtvp/spacefighter
+cd spacefighter
+pip install -r requirements.txt
+python3 spcae_fighter.py
+```
 ## Custom Graphics
 
 The game will look for image assets in an `assets` folder. If you want to add custom graphics, create the following files:
