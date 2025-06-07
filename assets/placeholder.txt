@@ -1,0 +1,9 @@
+# spacefighter
+This is a placeholder file. 
+Add the following image files to this directory for custom graphics:
+- player_ship.png
+- enemy_ship.png
+- special_enemy_ship.png
+- life.png
+
+If these files are not provided, the game will use colored shapes as placeholders.
